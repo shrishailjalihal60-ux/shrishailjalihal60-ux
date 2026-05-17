@@ -1,5 +1,7 @@
 # 💫I am Shrishailgouda Jalihal
 i am currently doing Computer science engineering degree<br>
+# Linkedin link
+https://www.linkedin.com/in/shrishail-jalihal-8a55b5345/?utm_source=chatgpt.com
 
 
 # 💻 Tech Stack:
