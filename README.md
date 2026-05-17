@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 I am Shrishailgouda J
 i am currently doing Computer science engineering degree<br>
 
 
